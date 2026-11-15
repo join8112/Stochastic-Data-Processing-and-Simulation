@@ -1,4 +1,3 @@
-setwd("~/文件/Stochastic data processing and simulation")
 set.seed(321)
 # Ex1
 
