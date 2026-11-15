@@ -1,4 +1,3 @@
-setwd("~/文件/Stochastic data processing and simulation")
 data(cars)
 attach(cars)
 cars # check the dataset "car"
