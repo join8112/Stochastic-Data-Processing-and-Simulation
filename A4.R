@@ -1,7 +1,5 @@
-setwd("~/文件/Stochastic data processing and simulation")
-
-install.packages("LearnBayes")
-install.packages("dplyr")
+# Requires the LearnBayes and dplyr packages:
+# install.packages(c("LearnBayes", "dplyr"))
 library("LearnBayes")
 library("dplyr")
 
@@ -171,4 +169,4 @@ outcome_iii[2] <- ifelse (integrate(cost_2,18,100)$value > integrate(cost_2,0,18
 # with c_2, c_a < c_c 
 
 #Q2(d)
-# I don't where to start :(((
+# Q2(d): not completed
