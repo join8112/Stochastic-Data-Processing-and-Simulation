@@ -1,5 +1,3 @@
-setwd("~/文件/Stochastic data processing and simulation")
-
 # Q1 
 
 lambda_1 = function(t) {1/ (2 *  t^(1/2))} # lambda for T1 to T3
