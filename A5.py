@@ -3,7 +3,7 @@
 """
 Created on Fri Oct 16 02:10:09 2020
 
-@author: Zayne
+@author: Ko-Cheng Chang
 """
 
 import random
